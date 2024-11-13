@@ -1,4 +1,5 @@
 <?php
+// ERROR LENSE
 
 $a='user';
 echo $a ;
