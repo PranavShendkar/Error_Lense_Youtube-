@@ -5,7 +5,7 @@ This repository contains the source code for various PHP tutorials from my YouTu
 ## Tutorials and Source Files
 
 1. **Fixing Undefined Variable Error in PHP**  
-   - [Watch on YouTube](https://www.youtube.com/watch?v=<VIDEO_ID>)  
+   - [Watch on YouTube](https://youtu.be/DT2iu2OQpFg?si=V2Pdqx-VLh9cVbHc)
    - [Source Code: undefined_variable.php](./undefined_var.php)
    - [Video Explanation:](https://errorlense.blogspot.com/2024/11/fixing-undefined-variable-error-in-php.html)
 
